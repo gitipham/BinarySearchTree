@@ -1,7 +1,7 @@
 /**
  * This class will define Node objects.
  * Each node object must reference two children and also contain the string entered by the user and the frequency of that string
- * @author Ivy Pham
+ * @author Ivy P.
  * @version 08/02/20
  */
 public class Node {
