@@ -2,7 +2,7 @@
  * This program allows the user to enter and search for strings.
  *  When strings are added to the tree, they will be wrapped inside a node object that holds the string,
  *  the frequency (number of times) with which that string has been added to the tree, and references to two other nodes (children).
- * @author: Ivy Pham
+ * @author: Ivy P.
  * @version: 08/01/20
  */
 
