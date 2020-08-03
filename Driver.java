@@ -1,6 +1,6 @@
 // Driver file for project 3.
-// ITCS 2214 -- Professor Jugan
-// DO NOT CHANGE
+// @author -- Professor Jugan
+
 import java.util.Random;
 
 public class Driver {
